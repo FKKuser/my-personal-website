@@ -21,7 +21,7 @@ function Projects() {
 
         <ProjectCard 
           src={webImg} 
-          link='https://github.com/FKKuser/yuan-portfolio-website'
+          link='https://github.com/FKKuser/yuan-guo-portfolio'
           h3= "Yuan's page"
           p='My web portfolio, which contains my resume, projects and skills.'
           />
